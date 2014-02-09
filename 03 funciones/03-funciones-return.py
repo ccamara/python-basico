@@ -1,4 +1,4 @@
-defmaximum(x, y):
+def maximum(x, y):
   if x > y:
     return x
   elif x == y:
