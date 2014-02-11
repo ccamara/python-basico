@@ -2,7 +2,9 @@ print ("¿Hemos llegado ya?")
  
 answer = "No"
  
-while answer != ("Sí" or "Si"):
+while answer != "sí":
   print("¿Y ahora?")
   answer = input()
+  # Como Sí = sí, lo pasamos a minúsculas para que no haya distinción
+  answer = answer.lower()
 print("¡Qué bien!")
