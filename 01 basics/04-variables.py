@@ -15,3 +15,9 @@ print(s)
 '''Las variables de tipo texto se conocen como Constantes literales
 porque su valor no varía, sino que es constante y es literal porque
 es un texto '''
+
+
+# Vaciamos una variable
+'''Las variables no pueden borrarse como tal, así que se les da un 
+valor nulo 'None' '''
+i = None 
