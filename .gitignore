@@ -1,3 +1,6 @@
+# Software
+.idea
+
 *.py[cod]
 
 # C extensions
