@@ -15,4 +15,5 @@ base = 5
 altura = 6 
 area_rectang(base,altura)
 
-area_rectang.__doc__
+# Mostramos la documentación docstring
+print(area_rectang.__doc__)
