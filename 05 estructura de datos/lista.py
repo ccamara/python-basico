@@ -26,3 +26,13 @@ olditem = shoplist[0]
 del shoplist[0]
 print("He comprado el", olditem)
 print("Mi lista de la compra ahora es:", shoplist)
+
+# Mostrar índices de la lista
+print("\nMuestra el segundo elemento de la lista: " + shoplist[1])
+# El número entre [] es el índice. Python empieza a contar con el 0
+
+# Podemos sustituir elementos concretos
+print("\nSustituimos el mango por kiwi")
+shoplist[1] = "kiwi"
+print("Muestra el (nuevo) segundo elemento de la lista: " + shoplist[1])
+
