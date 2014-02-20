@@ -1,11 +1,11 @@
 # Sintaxis: nombre_diccionario = { llave1: valor1, llave2: valor2}
 # Llave = nombre : valor = usuario de twitter
-twitter_users = {"carlos":"@carlescamara", "ETSA USJ":"@etsa_usj"}
-precios_software = {} #Creamos un diccionario vacío, ya lo llenaremos más tarde
+twitter_users = {"carlos": "@carlescamara", "ETSA USJ": "@etsa_usj"}
+precios_software = {}  # Creamos un diccionario vacío, ya lo llenaremos más tarde
 
 # Añadir entradas
 # Llave = nombre software : valor = precio
-twitter_users["USJ"]= "@_usj_"
+twitter_users["USJ"] = "@_usj_"
 precios_software["Autocad"] = 3000
 precios_software["Blender"] = 0
 precios_software["SketchupPro"] = 500
