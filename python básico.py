@@ -5,4 +5,3 @@ Documentation, License etc.
 '''
 v = input("Escribe el valor que quieres que tenga  'v': ")
 v = int( input("Escribe el valor que quieres que tenga  'v': "))
- 
